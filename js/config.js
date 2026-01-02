@@ -1,16 +1,16 @@
 // Firebase Configuration
 const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyD-5sHMkJONrrVo3u03X8mOAi6GF6MH9a8",
-    authDomain: "party-nation-app.firebaseapp.com",
-    projectId: "party-nation-app",
-    storageBucket: "party-nation-app.firebasestorage.app",
-    messagingSenderId: "665651077498",
-    appId: "1:665651077498:web:9d7e8a0e5e2c1f3a4b5c6d"
+    apiKey: "AIzaSyDtUMfqGjv0tgYrkwcAUbyPk5UuhMM1lF8",
+    authDomain: "bottleserviceapp.firebaseapp.com",
+    projectId: "bottleserviceapp",
+    storageBucket: "bottleserviceapp.firebasestorage.app",
+    messagingSenderId: "317908998044",
+    appId: "1:317908998044:web:21b363882fc3b7b9615a59"
 };
 
 // App Configuration
 const APP_CONFIG = {
-    appId: 'party-nation-live',
+    appId: 'bottle-service-app',
     version: '5.0.0',
     name: 'Party Nation',
     
