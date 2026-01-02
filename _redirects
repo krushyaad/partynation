@@ -1,0 +1,7 @@
+/post/* /index.html 200
+/user/* /index.html 200
+/event/* /index.html 200
+/@* /index.html 200
+/trending /index.html 200
+/events /index.html 200
+/profile /index.html 200
